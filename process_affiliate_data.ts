@@ -1,4 +1,4 @@
-import { Product } from './product.d.ts';
+import { Product } from './product.ts';
 import { getDataUrl, getThresholdPrice } from './deps.ts';
 
 // import { getDataUrl } from 'data_sources';

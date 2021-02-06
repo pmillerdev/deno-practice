@@ -19,3 +19,5 @@ To create a cache lockfile: `deno cache --lock=lock.json --lock-write process_af
 To run using cache lockfile: `deno run --allow-net --allow-write --lock=lock.json process_affiliate_data.ts 5`
 
 Force a download of modules: `deno cache --reload process_affiliate_data.ts`
+
+To run tests: `deno test`
