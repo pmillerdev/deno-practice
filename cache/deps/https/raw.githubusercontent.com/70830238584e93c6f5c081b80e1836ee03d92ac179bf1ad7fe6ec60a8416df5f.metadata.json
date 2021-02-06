@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-timer": "S1612614477.734733,VS0,VE0",
+    "x-github-request-id": "0964:B04D:82520D:89E99C:601E8AA8",
+    "x-cache": "HIT",
+    "expires": "Sat, 06 Feb 2021 12:32:56 GMT",
+    "etag": "W/\"d81914b3498fbd388b181b0b70bd6456463d493a6e8b9140bef057805d464ce0\"",
+    "x-cache-hits": "1",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "d4491972d554a712b9a79f04fae0edf8a472bef8",
+    "accept-ranges": "bytes",
+    "source-age": "163",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 06 Feb 2021 12:27:56 GMT",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-lon4263-LON",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/bricewilson/Deno-Getting-Started/Linking_to_External_Code/affiliate_data.ts"
+}
