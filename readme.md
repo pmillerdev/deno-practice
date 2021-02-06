@@ -29,3 +29,5 @@ Force a download of modules: `deno cache --reload process_affiliate_data.ts`
 To run tests: `deno test`
 To run formatter: `deno fmt (--check)`
 To run linter: `deno lint --unstable`
+
+Creating scripts: `deno install (options) --root . --name process_data process_affiliate_data.ts`
